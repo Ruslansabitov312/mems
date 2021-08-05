@@ -32,3 +32,4 @@ server.use('/messages', messagesRoutes);
         }
     }, restartDelay * 1000)
 })()
+
